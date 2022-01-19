@@ -1,0 +1,13 @@
+.slick-prev{
+    z-index: 1;
+    display: block;
+}
+
+.slick-next{
+
+    z-index: 1;
+    display: block;
+}
+*{
+    font-family: 'Playfair Display', serif;
+}
